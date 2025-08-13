@@ -1,0 +1,1322 @@
+2025-07-22 11:36:39,931 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-22 11:36:39,931 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-22 11:36:39,933 [INFO]  * Restarting with stat
+2025-07-22 11:36:41,022 [WARNING]  * Debugger is active!
+2025-07-22 11:36:41,025 [INFO]  * Debugger PIN: 272-290-250
+2025-07-22 11:37:24,359 [INFO] 127.0.0.1 - - [22/Jul/2025 11:37:24] "GET /api/ping HTTP/1.1" 200 -
+2025-07-22 11:37:24,469 [INFO] 127.0.0.1 - - [22/Jul/2025 11:37:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 11:50:43,467 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-22 11:50:43,478 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-22 11:50:43,479 [INFO]  * Restarting with stat
+2025-07-22 11:50:44,609 [WARNING]  * Debugger is active!
+2025-07-22 11:50:44,613 [INFO]  * Debugger PIN: 272-290-250
+2025-07-22 11:51:05,595 [INFO] 127.0.0.1 - - [22/Jul/2025 11:51:05] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-22 11:51:35,555 [INFO] 127.0.0.1 - - [22/Jul/2025 11:51:35] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-22 11:52:26,255 [INFO] 127.0.0.1 - - [22/Jul/2025 11:52:26] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-22 11:52:59,735 [INFO] 127.0.0.1 - - [22/Jul/2025 11:52:59] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-22 12:00:51,140 [INFO] 127.0.0.1 - - [22/Jul/2025 12:00:51] "POST /api/fib HTTP/1.1" 200 -
+2025-07-22 13:36:22,379 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-22 13:36:22,380 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-22 13:36:22,382 [INFO]  * Restarting with stat
+2025-07-22 13:36:23,599 [WARNING]  * Debugger is active!
+2025-07-22 13:36:23,602 [INFO]  * Debugger PIN: 272-290-250
+2025-07-22 13:36:55,186 [INFO] 127.0.0.1 - - [22/Jul/2025 13:36:55] "GET /api/ping HTTP/1.1" 200 -
+2025-07-22 13:37:39,543 [INFO] 127.0.0.1 - - [22/Jul/2025 13:37:39] "GET /api/ping HTTP/1.1" 200 -
+2025-07-22 13:42:03,863 [INFO] 127.0.0.1 - - [22/Jul/2025 13:42:03] "POST /api/fib HTTP/1.1" 200 -
+2025-07-23 11:46:15,473 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 11:46:15,474 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-23 11:46:15,477 [INFO]  * Restarting with stat
+2025-07-23 11:46:16,744 [WARNING]  * Debugger is active!
+2025-07-23 11:46:16,747 [INFO]  * Debugger PIN: 272-290-250
+2025-07-23 14:24:22,021 [INFO] 127.0.0.1 - - [23/Jul/2025 14:24:22] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-07-23 14:29:45,759 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 14:29:45,759 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-23 14:29:45,761 [INFO]  * Restarting with stat
+2025-07-23 14:29:47,137 [WARNING]  * Debugger is active!
+2025-07-23 14:29:47,140 [INFO]  * Debugger PIN: 272-290-250
+2025-07-23 14:29:53,472 [INFO] 127.0.0.1 - - [23/Jul/2025 14:29:53] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-23 14:29:53,564 [INFO] 127.0.0.1 - - [23/Jul/2025 14:29:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-23 14:32:56,084 [INFO] 127.0.0.1 - - [23/Jul/2025 14:32:56] "GET /api/ping HTTP/1.1" 200 -
+2025-07-25 16:21:26,859 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-25 16:21:26,860 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-25 16:21:26,862 [INFO]  * Restarting with stat
+2025-07-25 16:21:28,483 [WARNING]  * Debugger is active!
+2025-07-25 16:21:28,493 [INFO]  * Debugger PIN: 272-290-250
+2025-07-25 16:22:19,590 [INFO] 127.0.0.1 - - [25/Jul/2025 16:22:19] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-07-25 16:22:22,008 [INFO] 127.0.0.1 - - [25/Jul/2025 16:22:22] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:26:03,573 [INFO] 127.0.0.1 - - [25/Jul/2025 16:26:03] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:27:18,088 [INFO] 127.0.0.1 - - [25/Jul/2025 16:27:18] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:27:31,569 [INFO] 127.0.0.1 - - [25/Jul/2025 16:27:31] "POST /api/factorial HTTP/1.1" 200 -
+2025-07-25 16:27:41,067 [INFO] 127.0.0.1 - - [25/Jul/2025 16:27:41] "POST /api/fib HTTP/1.1" 200 -
+2025-07-25 16:29:59,124 [INFO] 127.0.0.1 - - [25/Jul/2025 16:29:59] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-25 16:30:00,104 [INFO] 127.0.0.1 - - [25/Jul/2025 16:30:00] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-25 16:30:06,079 [INFO] 127.0.0.1 - - [25/Jul/2025 16:30:06] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:32:10,297 [INFO] 127.0.0.1 - - [25/Jul/2025 16:32:10] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:32:12,112 [INFO] 127.0.0.1 - - [25/Jul/2025 16:32:12] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-25 16:32:28,409 [INFO] 127.0.0.1 - - [25/Jul/2025 16:32:28] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:32:40,334 [INFO] 127.0.0.1 - - [25/Jul/2025 16:32:40] "POST /api/login HTTP/1.1" 200 -
+2025-07-25 16:36:17,065 [INFO] 127.0.0.1 - - [25/Jul/2025 16:36:17] "POST /api/login HTTP/1.1" 200 -
+2025-07-28 13:57:12,920 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 13:57:12,921 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 13:57:12,924 [INFO]  * Restarting with stat
+2025-07-28 13:57:14,081 [WARNING]  * Debugger is active!
+2025-07-28 13:57:14,085 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 13:57:17,815 [INFO] 127.0.0.1 - - [28/Jul/2025 13:57:17] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-28 13:57:17,954 [INFO] 127.0.0.1 - - [28/Jul/2025 13:57:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 13:57:55,210 [INFO] 127.0.0.1 - - [28/Jul/2025 13:57:55] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 13:58:00,235 [INFO] 127.0.0.1 - - [28/Jul/2025 13:58:00] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 13:58:01,766 [INFO] 127.0.0.1 - - [28/Jul/2025 13:58:01] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 13:58:05,076 [INFO] 127.0.0.1 - - [28/Jul/2025 13:58:05] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 13:58:25,008 [INFO] 127.0.0.1 - - [28/Jul/2025 13:58:25] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-07-28 13:59:16,591 [INFO] 127.0.0.1 - - [28/Jul/2025 13:59:16] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 13:59:22,242 [INFO] 127.0.0.1 - - [28/Jul/2025 13:59:22] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 14:17:58,215 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:17:58,216 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:17:58,217 [INFO]  * Restarting with stat
+2025-07-28 14:17:59,469 [WARNING]  * Debugger is active!
+2025-07-28 14:17:59,473 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:20:59,135 [INFO] 127.0.0.1 - - [28/Jul/2025 14:20:59] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:21:06,080 [INFO] 127.0.0.1 - - [28/Jul/2025 14:21:06] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-07-28 14:21:11,514 [INFO] 127.0.0.1 - - [28/Jul/2025 14:21:11] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:25:35,529 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:25:35,530 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:25:35,533 [INFO]  * Restarting with stat
+2025-07-28 14:25:37,676 [WARNING]  * Debugger is active!
+2025-07-28 14:25:37,686 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:26:22,503 [INFO] 127.0.0.1 - - [28/Jul/2025 14:26:22] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:26:25,465 [INFO] 127.0.0.1 - - [28/Jul/2025 14:26:25] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:27:56,466 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:27:56,467 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:27:56,469 [INFO]  * Restarting with stat
+2025-07-28 14:27:57,803 [WARNING]  * Debugger is active!
+2025-07-28 14:27:57,808 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:28:17,926 [INFO] 127.0.0.1 - - [28/Jul/2025 14:28:17] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:29:40,393 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:29:40,394 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:29:40,396 [INFO]  * Restarting with stat
+2025-07-28 14:29:41,752 [WARNING]  * Debugger is active!
+2025-07-28 14:29:41,755 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:30:04,661 [INFO] 127.0.0.1 - - [28/Jul/2025 14:30:04] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:30:13,159 [INFO] 127.0.0.1 - - [28/Jul/2025 14:30:13] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-07-28 14:30:18,696 [INFO] 127.0.0.1 - - [28/Jul/2025 14:30:18] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:30:26,442 [INFO] 127.0.0.1 - - [28/Jul/2025 14:30:26] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:32:21,001 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:32:21,002 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:32:21,004 [INFO]  * Restarting with stat
+2025-07-28 14:32:22,264 [WARNING]  * Debugger is active!
+2025-07-28 14:32:22,268 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:33:33,090 [INFO] 127.0.0.1 - - [28/Jul/2025 14:33:33] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-07-28 14:35:09,177 [INFO] 127.0.0.1 - - [28/Jul/2025 14:35:09] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-07-28 14:36:06,046 [INFO] 127.0.0.1 - - [28/Jul/2025 14:36:06] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-07-28 14:41:45,412 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 14:41:45,412 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:41:45,415 [INFO]  * Restarting with stat
+2025-07-28 14:41:47,022 [WARNING]  * Debugger is active!
+2025-07-28 14:41:47,028 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 14:41:59,484 [INFO] 127.0.0.1 - - [28/Jul/2025 14:41:59] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-07-28 14:43:55,611 [INFO] 127.0.0.1 - - [28/Jul/2025 14:43:55] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 14:45:01,476 [INFO] 127.0.0.1 - - [28/Jul/2025 14:45:01] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-07-28 14:45:07,983 [INFO] 127.0.0.1 - - [28/Jul/2025 14:45:07] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 14:49:08,955 [INFO] 127.0.0.1 - - [28/Jul/2025 14:49:08] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-28 15:19:35,673 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-28 15:19:35,674 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 15:19:35,678 [INFO]  * Restarting with stat
+2025-07-28 15:19:36,986 [WARNING]  * Debugger is active!
+2025-07-28 15:19:36,990 [INFO]  * Debugger PIN: 272-290-250
+2025-07-28 15:30:22,962 [INFO] 127.0.0.1 - - [28/Jul/2025 15:30:22] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-07-28 15:30:29,114 [INFO] 127.0.0.1 - - [28/Jul/2025 15:30:29] "POST /api/login HTTP/1.1" 200 -
+2025-07-28 16:42:54,424 [INFO] 127.0.0.1 - - [28/Jul/2025 16:42:54] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-28 16:42:54,705 [INFO] 127.0.0.1 - - [28/Jul/2025 16:42:54] "POST /api/fib HTTP/1.1" 200 -
+2025-07-28 16:43:00,121 [INFO] 127.0.0.1 - - [28/Jul/2025 16:43:00] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-28 16:43:00,436 [INFO] 127.0.0.1 - - [28/Jul/2025 16:43:00] "POST /api/factorial HTTP/1.1" 200 -
+2025-07-28 17:27:40,849 [INFO] 127.0.0.1 - - [28/Jul/2025 17:27:40] "POST /api/login HTTP/1.1" 200 -
+2025-07-28 17:27:47,967 [INFO] 127.0.0.1 - - [28/Jul/2025 17:27:47] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-28 17:27:48,245 [INFO] 127.0.0.1 - - [28/Jul/2025 17:27:48] "POST /api/factorial HTTP/1.1" 200 -
+2025-07-28 17:27:55,615 [INFO] 127.0.0.1 - - [28/Jul/2025 17:27:55] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-28 17:27:55,937 [INFO] 127.0.0.1 - - [28/Jul/2025 17:27:55] "POST /api/fib HTTP/1.1" 200 -
+2025-07-28 17:28:02,535 [INFO] 127.0.0.1 - - [28/Jul/2025 17:28:02] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-28 17:28:02,871 [INFO] 127.0.0.1 - - [28/Jul/2025 17:28:02] "POST /api/pow HTTP/1.1" 200 -
+2025-07-28 17:28:18,825 [INFO] 127.0.0.1 - - [28/Jul/2025 17:28:18] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-28 17:28:19,139 [INFO] 127.0.0.1 - - [28/Jul/2025 17:28:19] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-28 17:29:53,603 [INFO] 127.0.0.1 - - [28/Jul/2025 17:29:53] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-28 17:29:53,868 [INFO] 127.0.0.1 - - [28/Jul/2025 17:29:53] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-28 17:30:08,343 [INFO] 127.0.0.1 - - [28/Jul/2025 17:30:08] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-28 17:30:08,663 [INFO] 127.0.0.1 - - [28/Jul/2025 17:30:08] "POST /api/pow HTTP/1.1" 200 -
+2025-07-28 17:30:17,841 [INFO] 127.0.0.1 - - [28/Jul/2025 17:30:17] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-28 17:30:18,161 [INFO] 127.0.0.1 - - [28/Jul/2025 17:30:18] "POST /api/pow HTTP/1.1" 200 -
+2025-07-29 14:42:17,026 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-29 14:42:17,027 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-29 14:42:17,030 [INFO]  * Restarting with stat
+2025-07-29 14:42:18,184 [WARNING]  * Debugger is active!
+2025-07-29 14:42:18,187 [INFO]  * Debugger PIN: 272-290-250
+2025-07-29 16:30:31,313 [INFO] 127.0.0.1 - - [29/Jul/2025 16:30:31] "POST /api/login HTTP/1.1" 200 -
+2025-07-29 16:34:27,118 [INFO] 127.0.0.1 - - [29/Jul/2025 16:34:27] "POST /api/login HTTP/1.1" 200 -
+2025-07-29 16:34:30,686 [INFO] 127.0.0.1 - - [29/Jul/2025 16:34:30] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 16:34:30,951 [INFO] 127.0.0.1 - - [29/Jul/2025 16:34:30] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 16:40:39,735 [INFO] 127.0.0.1 - - [29/Jul/2025 16:40:39] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 16:40:40,000 [INFO] 127.0.0.1 - - [29/Jul/2025 16:40:40] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 16:45:44,157 [INFO] 127.0.0.1 - - [29/Jul/2025 16:45:44] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 16:45:44,417 [INFO] 127.0.0.1 - - [29/Jul/2025 16:45:44] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 16:45:47,566 [INFO] 127.0.0.1 - - [29/Jul/2025 16:45:47] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 16:45:55,568 [INFO] 127.0.0.1 - - [29/Jul/2025 16:45:55] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 16:45:55,820 [INFO] 127.0.0.1 - - [29/Jul/2025 16:45:55] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 16:47:55,000 [INFO] 127.0.0.1 - - [29/Jul/2025 16:47:55] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 16:47:55,265 [INFO] 127.0.0.1 - - [29/Jul/2025 16:47:55] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 17:11:07,685 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:07] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-29 17:11:07,950 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:07] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 17:11:08,164 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:08] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-29 17:11:12,854 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:12] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-29 17:11:13,111 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:13] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-29 17:11:18,816 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:18] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-29 17:11:19,149 [INFO] 127.0.0.1 - - [29/Jul/2025 17:11:19] "POST /api/factorial HTTP/1.1" 200 -
+2025-07-31 10:24:20,589 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 10:24:20,590 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 10:24:20,593 [INFO]  * Restarting with stat
+2025-07-31 10:24:22,301 [WARNING]  * Debugger is active!
+2025-07-31 10:24:22,306 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 10:24:39,764 [INFO] 127.0.0.1 - - [31/Jul/2025 10:24:39] "POST /api/login HTTP/1.1" 200 -
+2025-07-31 10:51:27,921 [ERROR] Error: Path doesn't exist: migrations.  Please use the 'init' command to create a new scripts folder.
+2025-07-31 11:01:44,236 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:01:44,237 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:01:44,240 [INFO]  * Restarting with stat
+2025-07-31 11:01:46,382 [WARNING]  * Debugger is active!
+2025-07-31 11:01:46,388 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 11:16:43,172 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:16:43,173 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:35:57,953 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:35:57,954 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:35:57,955 [INFO]  * Restarting with stat
+2025-07-31 11:35:59,089 [WARNING]  * Debugger is active!
+2025-07-31 11:35:59,094 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 11:37:15,281 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:15] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-31 11:37:20,877 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:20] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-07-31 11:37:29,851 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:29] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-07-31 11:37:33,802 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:33] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:37:34,070 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:34] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-31 11:37:49,332 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:49] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:37:49,650 [INFO] 127.0.0.1 - - [31/Jul/2025 11:37:49] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-31 11:42:32,257 [INFO] 127.0.0.1 - - [31/Jul/2025 11:42:32] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:42:32,523 [INFO] 127.0.0.1 - - [31/Jul/2025 11:42:32] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-07-31 11:42:42,777 [INFO] 127.0.0.1 - - [31/Jul/2025 11:42:42] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 11:42:43,093 [INFO] 127.0.0.1 - - [31/Jul/2025 11:42:43] "[35m[1mPOST /api/factorial HTTP/1.1[0m" 500 -
+2025-07-31 11:43:52,864 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:43:52,864 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:43:52,867 [INFO]  * Restarting with stat
+2025-07-31 11:43:54,110 [WARNING]  * Debugger is active!
+2025-07-31 11:43:54,114 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 11:44:02,996 [INFO] 127.0.0.1 - - [31/Jul/2025 11:44:02] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 11:44:03,239 [INFO] 127.0.0.1 - - [31/Jul/2025 11:44:03] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 11:47:17,109 [INFO] 127.0.0.1 - - [31/Jul/2025 11:47:17] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:47:17,375 [INFO] 127.0.0.1 - - [31/Jul/2025 11:47:17] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 11:51:15,724 [INFO] 127.0.0.1 - - [31/Jul/2025 11:51:15] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:51:15,787 [INFO] 127.0.0.1 - - [31/Jul/2025 11:51:15] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:51:15,975 [INFO] 127.0.0.1 - - [31/Jul/2025 11:51:15] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 11:51:16,040 [INFO] 127.0.0.1 - - [31/Jul/2025 11:51:16] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 11:55:13,197 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:55:13,197 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:55:13,199 [INFO]  * Restarting with stat
+2025-07-31 11:55:14,459 [WARNING]  * Debugger is active!
+2025-07-31 11:55:14,463 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 11:55:30,864 [INFO] 127.0.0.1 - - [31/Jul/2025 11:55:30] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:55:31,128 [INFO] 127.0.0.1 - - [31/Jul/2025 11:55:31] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 11:57:20,856 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:57:20,856 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 11:57:20,858 [INFO]  * Restarting with stat
+2025-07-31 11:57:22,346 [WARNING]  * Debugger is active!
+2025-07-31 11:57:22,350 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 11:57:43,778 [INFO] 127.0.0.1 - - [31/Jul/2025 11:57:43] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 11:57:44,043 [INFO] 127.0.0.1 - - [31/Jul/2025 11:57:44] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 12:00:14,551 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:00:14,552 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:00:14,554 [INFO]  * Restarting with stat
+2025-07-31 12:00:16,883 [WARNING]  * Debugger is active!
+2025-07-31 12:00:16,889 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:01:12,058 [INFO] 127.0.0.1 - - [31/Jul/2025 12:01:12] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 12:01:12,322 [INFO] 127.0.0.1 - - [31/Jul/2025 12:01:12] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 12:04:20,519 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:04:20,520 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:04:20,522 [INFO]  * Restarting with stat
+2025-07-31 12:04:21,837 [WARNING]  * Debugger is active!
+2025-07-31 12:04:21,841 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:04:29,184 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:29] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 12:04:29,434 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:29] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 12:04:39,179 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:39] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 12:04:39,495 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:39] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 12:04:49,739 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:49] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-31 12:04:50,048 [INFO] 127.0.0.1 - - [31/Jul/2025 12:04:50] "[31m[1mPOST /api/pow HTTP/1.1[0m" 422 -
+2025-07-31 12:10:07,435 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:10:07,436 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:10:07,438 [INFO]  * Restarting with stat
+2025-07-31 12:10:08,771 [WARNING]  * Debugger is active!
+2025-07-31 12:10:08,775 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:10:15,913 [INFO] 127.0.0.1 - - [31/Jul/2025 12:10:15] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 12:10:16,162 [INFO] 127.0.0.1 - - [31/Jul/2025 12:10:16] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 12:13:06,079 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:13:06,080 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:21:41,281 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:21:41,282 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:21:41,284 [INFO]  * Restarting with stat
+2025-07-31 12:21:42,613 [WARNING]  * Debugger is active!
+2025-07-31 12:21:42,616 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:22:48,775 [INFO] 127.0.0.1 - - [31/Jul/2025 12:22:48] "POST /api/login HTTP/1.1" 200 -
+2025-07-31 12:22:52,386 [INFO] 127.0.0.1 - - [31/Jul/2025 12:22:52] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 12:22:52,656 [INFO] 127.0.0.1 - - [31/Jul/2025 12:22:52] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 12:26:39,389 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:26:39,389 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:26:39,392 [INFO]  * Restarting with stat
+2025-07-31 12:26:41,933 [WARNING]  * Debugger is active!
+2025-07-31 12:26:41,940 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:26:48,151 [INFO] 127.0.0.1 - - [31/Jul/2025 12:26:48] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 12:26:48,429 [INFO] 127.0.0.1 - - [31/Jul/2025 12:26:48] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 12:31:14,285 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 12:31:14,286 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 12:31:14,288 [INFO]  * Restarting with stat
+2025-07-31 12:31:15,704 [WARNING]  * Debugger is active!
+2025-07-31 12:31:15,707 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 12:31:24,113 [INFO] 127.0.0.1 - - [31/Jul/2025 12:31:24] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 12:31:24,377 [INFO] 127.0.0.1 - - [31/Jul/2025 12:31:24] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 13:15:12,019 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:15:12,020 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:15:12,022 [INFO]  * Restarting with stat
+2025-07-31 13:15:13,423 [WARNING]  * Debugger is active!
+2025-07-31 13:15:13,428 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:15:39,479 [INFO] 127.0.0.1 - - [31/Jul/2025 13:15:39] "POST /api/login HTTP/1.1" 200 -
+2025-07-31 13:15:44,608 [INFO] 127.0.0.1 - - [31/Jul/2025 13:15:44] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:15:44,873 [INFO] 127.0.0.1 - - [31/Jul/2025 13:15:44] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:22:13,759 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:22:13,760 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:22:13,761 [INFO]  * Restarting with stat
+2025-07-31 13:22:15,071 [WARNING]  * Debugger is active!
+2025-07-31 13:22:15,074 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:22:19,416 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:19] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:22:19,679 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:19] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:22:27,214 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:27] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:22:27,528 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:27] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:22:28,531 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:28] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:22:31,753 [INFO] 127.0.0.1 - - [31/Jul/2025 13:22:31] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:25:03,504 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:25:03,505 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:25:03,507 [INFO]  * Restarting with stat
+2025-07-31 13:25:04,724 [WARNING]  * Debugger is active!
+2025-07-31 13:25:04,728 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:25:13,075 [INFO] 127.0.0.1 - - [31/Jul/2025 13:25:13] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:25:13,338 [INFO] 127.0.0.1 - - [31/Jul/2025 13:25:13] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:28:07,224 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:28:07,224 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:28:07,226 [INFO]  * Restarting with stat
+2025-07-31 13:28:08,468 [WARNING]  * Debugger is active!
+2025-07-31 13:28:08,472 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:28:11,397 [INFO] 127.0.0.1 - - [31/Jul/2025 13:28:11] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:28:11,660 [INFO] 127.0.0.1 - - [31/Jul/2025 13:28:11] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:29:51,824 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:29:51,825 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:29:51,826 [INFO]  * Restarting with stat
+2025-07-31 13:29:53,097 [WARNING]  * Debugger is active!
+2025-07-31 13:29:53,101 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:29:59,704 [INFO] 127.0.0.1 - - [31/Jul/2025 13:29:59] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:29:59,967 [INFO] 127.0.0.1 - - [31/Jul/2025 13:29:59] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:37:14,368 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:37:14,368 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:37:14,370 [INFO]  * Restarting with stat
+2025-07-31 13:37:15,622 [WARNING]  * Debugger is active!
+2025-07-31 13:37:15,626 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:37:38,340 [INFO] 127.0.0.1 - - [31/Jul/2025 13:37:38] "POST /api/login HTTP/1.1" 200 -
+2025-07-31 13:37:40,419 [INFO] 127.0.0.1 - - [31/Jul/2025 13:37:40] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:37:40,685 [INFO] 127.0.0.1 - - [31/Jul/2025 13:37:40] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:38:31,312 [INFO] 127.0.0.1 - - [31/Jul/2025 13:38:31] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 13:38:31,622 [INFO] 127.0.0.1 - - [31/Jul/2025 13:38:31] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 13:44:07,421 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:44:07,421 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:44:07,423 [INFO]  * Restarting with stat
+2025-07-31 13:44:08,678 [WARNING]  * Debugger is active!
+2025-07-31 13:44:08,683 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:44:12,734 [INFO] 127.0.0.1 - - [31/Jul/2025 13:44:12] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:44:12,981 [INFO] 127.0.0.1 - - [31/Jul/2025 13:44:12] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:45:48,926 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:45:48,927 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:45:48,929 [INFO]  * Restarting with stat
+2025-07-31 13:45:50,109 [WARNING]  * Debugger is active!
+2025-07-31 13:45:50,113 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:53:39,030 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:53:39,031 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:53:39,032 [INFO]  * Restarting with stat
+2025-07-31 13:53:40,294 [WARNING]  * Debugger is active!
+2025-07-31 13:53:40,298 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:53:46,656 [INFO] 127.0.0.1 - - [31/Jul/2025 13:53:46] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 13:53:46,920 [INFO] 127.0.0.1 - - [31/Jul/2025 13:53:46] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 13:56:08,597 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:56:08,597 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:59:19,278 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 13:59:19,278 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 13:59:19,280 [INFO]  * Restarting with stat
+2025-07-31 13:59:20,493 [WARNING]  * Debugger is active!
+2025-07-31 13:59:20,496 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 13:59:38,008 [INFO] 127.0.0.1 - - [31/Jul/2025 13:59:38] "POST /api/login HTTP/1.1" 200 -
+2025-07-31 13:59:41,232 [INFO] 127.0.0.1 - - [31/Jul/2025 13:59:41] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-07-31 13:59:41,485 [INFO] 127.0.0.1 - - [31/Jul/2025 13:59:41] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-07-31 14:47:41,548 [INFO] 127.0.0.1 - - [31/Jul/2025 14:47:41] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 14:47:41,804 [INFO] 127.0.0.1 - - [31/Jul/2025 14:47:41] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 15:11:44,482 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 15:11:44,483 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 15:11:44,485 [INFO]  * Restarting with stat
+2025-07-31 15:11:45,660 [WARNING]  * Debugger is active!
+2025-07-31 15:11:45,664 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 15:11:55,719 [INFO] 127.0.0.1 - - [31/Jul/2025 15:11:55] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 15:11:55,956 [INFO] 127.0.0.1 - - [31/Jul/2025 15:11:55] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 15:16:08,210 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 15:16:08,210 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 15:16:08,212 [INFO]  * Restarting with stat
+2025-07-31 15:16:09,204 [WARNING]  * Debugger is active!
+2025-07-31 15:16:09,208 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 15:16:13,361 [INFO] 127.0.0.1 - - [31/Jul/2025 15:16:13] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 15:16:13,631 [INFO] 127.0.0.1 - - [31/Jul/2025 15:16:13] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 15:16:15,250 [INFO] 127.0.0.1 - - [31/Jul/2025 15:16:15] "[33mOPTIONS /api/factorial HTTP/1.1[0m" 404 -
+2025-07-31 15:16:18,546 [INFO] 127.0.0.1 - - [31/Jul/2025 15:16:18] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-31 15:16:18,809 [INFO] 127.0.0.1 - - [31/Jul/2025 15:16:18] "[31m[1mPOST /api/pow HTTP/1.1[0m" 422 -
+2025-07-31 15:19:11,496 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 15:19:11,496 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 15:19:11,498 [INFO]  * Restarting with stat
+2025-07-31 15:19:12,550 [WARNING]  * Debugger is active!
+2025-07-31 15:19:12,553 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 15:19:15,197 [INFO] 127.0.0.1 - - [31/Jul/2025 15:19:15] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-07-31 15:19:15,458 [INFO] 127.0.0.1 - - [31/Jul/2025 15:19:15] "[31m[1mPOST /api/pow HTTP/1.1[0m" 422 -
+2025-07-31 15:20:16,949 [INFO] 127.0.0.1 - - [31/Jul/2025 15:20:16] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 15:20:17,208 [INFO] 127.0.0.1 - - [31/Jul/2025 15:20:17] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-07-31 15:26:19,121 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 15:26:19,122 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-31 15:26:19,123 [INFO]  * Restarting with stat
+2025-07-31 15:26:20,378 [WARNING]  * Debugger is active!
+2025-07-31 15:26:20,382 [INFO]  * Debugger PIN: 272-290-250
+2025-07-31 15:26:30,155 [INFO] 127.0.0.1 - - [31/Jul/2025 15:26:30] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-07-31 15:26:30,419 [INFO] 127.0.0.1 - - [31/Jul/2025 15:26:30] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 09:43:51,510 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 09:43:51,512 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 09:43:51,514 [INFO]  * Restarting with stat
+2025-08-04 09:43:52,967 [WARNING]  * Debugger is active!
+2025-08-04 09:43:52,970 [INFO]  * Debugger PIN: 272-290-250
+2025-08-04 09:48:20,759 [INFO] 127.0.0.1 - - [04/Aug/2025 09:48:20] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 09:48:56,974 [INFO] 127.0.0.1 - - [04/Aug/2025 09:48:56] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 09:53:59,106 [INFO] 127.0.0.1 - - [04/Aug/2025 09:53:59] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-08-04 09:57:27,173 [INFO] 127.0.0.1 - - [04/Aug/2025 09:57:27] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-08-04 10:02:43,407 [INFO] 127.0.0.1 - - [04/Aug/2025 10:02:43] "[31m[1mPOST /api/login HTTP/1.1[0m" 400 -
+2025-08-04 10:04:44,196 [INFO] 127.0.0.1 - - [04/Aug/2025 10:04:44] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 10:41:04,924 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 10:41:04,924 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 10:41:04,926 [INFO]  * Restarting with stat
+2025-08-04 10:41:06,177 [WARNING]  * Debugger is active!
+2025-08-04 10:41:06,181 [INFO]  * Debugger PIN: 272-290-250
+2025-08-04 10:45:59,941 [INFO] 127.0.0.1 - - [04/Aug/2025 10:45:59] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-08-04 10:48:29,943 [INFO] 127.0.0.1 - - [04/Aug/2025 10:48:29] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 12:29:17,967 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 12:29:17,968 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 12:29:17,971 [INFO]  * Restarting with stat
+2025-08-04 12:29:19,193 [WARNING]  * Debugger is active!
+2025-08-04 12:29:19,197 [INFO]  * Debugger PIN: 272-290-250
+2025-08-04 12:32:05,752 [INFO] 127.0.0.1 - - [04/Aug/2025 12:32:05] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-08-04 13:48:40,239 [INFO] 127.0.0.1 - - [04/Aug/2025 13:48:40] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2025-08-04 13:48:52,401 [INFO] 127.0.0.1 - - [04/Aug/2025 13:48:52] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 13:51:55,163 [INFO] 127.0.0.1 - - [04/Aug/2025 13:51:55] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 13:52:15,435 [INFO] 127.0.0.1 - - [04/Aug/2025 13:52:15] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 13:54:43,599 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 13:54:43,599 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 13:54:43,601 [INFO]  * Restarting with stat
+2025-08-04 13:54:44,792 [WARNING]  * Debugger is active!
+2025-08-04 13:54:44,796 [INFO]  * Debugger PIN: 272-290-250
+2025-08-04 13:54:58,454 [INFO] 127.0.0.1 - - [04/Aug/2025 13:54:58] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 13:55:20,577 [INFO] 127.0.0.1 - - [04/Aug/2025 13:55:20] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 13:56:12,206 [INFO] 127.0.0.1 - - [04/Aug/2025 13:56:12] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 13:59:10,766 [INFO] 127.0.0.1 - - [04/Aug/2025 13:59:10] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 13:59:36,343 [INFO] 127.0.0.1 - - [04/Aug/2025 13:59:36] "[33mPOST /api/factorial HTTP/1.1[0m" 404 -
+2025-08-04 14:02:30,939 [INFO] 127.0.0.1 - - [04/Aug/2025 14:02:30] "[33mPOST /api/factorial HTTP/1.1[0m" 404 -
+2025-08-04 14:12:42,627 [INFO] 127.0.0.1 - - [04/Aug/2025 14:12:42] "[33mPOST /api/factorial HTTP/1.1[0m" 404 -
+2025-08-04 14:13:13,137 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 14:13:13,137 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 14:13:13,139 [INFO]  * Restarting with stat
+2025-08-04 14:13:14,522 [WARNING]  * Debugger is active!
+2025-08-04 14:13:14,526 [INFO]  * Debugger PIN: 272-290-250
+2025-08-04 14:13:17,873 [INFO] 127.0.0.1 - - [04/Aug/2025 14:13:17] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-08-04 14:16:57,173 [INFO] 127.0.0.1 - - [04/Aug/2025 14:16:57] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 14:17:55,163 [INFO] 127.0.0.1 - - [04/Aug/2025 14:17:55] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-08-04 14:18:04,533 [INFO] 127.0.0.1 - - [04/Aug/2025 14:18:04] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 14:18:21,552 [INFO] 127.0.0.1 - - [04/Aug/2025 14:18:21] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-08-04 14:20:49,188 [INFO] 127.0.0.1 - - [04/Aug/2025 14:20:49] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 14:21:20,547 [INFO] 127.0.0.1 - - [04/Aug/2025 14:21:20] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-08-04 14:21:53,588 [INFO] 127.0.0.1 - - [04/Aug/2025 14:21:53] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 422 -
+2025-08-04 14:23:28,216 [INFO] 127.0.0.1 - - [04/Aug/2025 14:23:28] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-04 14:24:08,309 [INFO] 127.0.0.1 - - [04/Aug/2025 14:24:08] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 14:28:24,291 [INFO] 127.0.0.1 - - [04/Aug/2025 14:28:24] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-08-04 14:28:27,327 [INFO] 127.0.0.1 - - [04/Aug/2025 14:28:27] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 14:28:27,583 [INFO] 127.0.0.1 - - [04/Aug/2025 14:28:27] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 14:43:01,115 [INFO] 127.0.0.1 - - [04/Aug/2025 14:43:01] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 14:43:01,372 [INFO] 127.0.0.1 - - [04/Aug/2025 14:43:01] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 14:47:45,022 [INFO] 127.0.0.1 - - [04/Aug/2025 14:47:45] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 14:47:55,202 [INFO] 127.0.0.1 - - [04/Aug/2025 14:47:55] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-08-04 14:48:02,318 [INFO] 127.0.0.1 - - [04/Aug/2025 14:48:02] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 15:04:35,957 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 15:04:35,957 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 15:04:35,960 [INFO]  * Restarting with stat
+2025-08-04 15:20:38,641 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-04 15:20:38,642 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 15:21:09,268 [INFO] 127.0.0.1 - - [04/Aug/2025 15:21:09] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-08-04 15:21:18,457 [INFO] 127.0.0.1 - - [04/Aug/2025 15:21:18] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 15:22:01,423 [INFO] 127.0.0.1 - - [04/Aug/2025 15:22:01] "[31m[1mPOST /api/fib HTTP/1.1[0m" 422 -
+2025-08-04 15:24:50,182 [INFO] 127.0.0.1 - - [04/Aug/2025 15:24:50] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 15:32:11,160 [INFO] 127.0.0.1 - - [04/Aug/2025 15:32:11] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+2025-08-04 15:32:15,571 [INFO] 127.0.0.1 - - [04/Aug/2025 15:32:15] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 15:38:54,906 [INFO] 127.0.0.1 - - [04/Aug/2025 15:38:54] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 15:39:02,431 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:02] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-04 15:39:02,689 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:02] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-04 15:39:07,832 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:07] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 15:39:08,153 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:08] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 15:39:10,724 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+    fib_request = FibonacciRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 15:39:11,873 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:11] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 15:39:21,059 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:21] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 15:39:21,332 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:21] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 15:39:37,565 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:37] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-04 15:39:37,894 [INFO] 127.0.0.1 - - [04/Aug/2025 15:39:37] "POST /api/pow HTTP/1.1" 200 -
+2025-08-04 15:40:17,825 [INFO] 127.0.0.1 - - [04/Aug/2025 15:40:17] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 15:40:18,151 [INFO] 127.0.0.1 - - [04/Aug/2025 15:40:18] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 15:40:22,724 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+    fib_request = FibonacciRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-5, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 15:40:22,727 [INFO] 127.0.0.1 - - [04/Aug/2025 15:40:22] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 15:52:09,175 [INFO] 127.0.0.1 - - [04/Aug/2025 15:52:09] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 15:52:09,437 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+    return jsonify({"error": "Num\u0103rul trebuie s\u0103 fie pozitiv"}), 400
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-5, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+    return jsonify({"error": str(e)}), 500
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 15:52:09,636 [INFO] 127.0.0.1 - - [04/Aug/2025 15:52:09] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 16:00:49,070 [INFO] 127.0.0.1 - - [04/Aug/2025 16:00:49] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 16:00:49,320 [INFO] 127.0.0.1 - - [04/Aug/2025 16:00:49] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 16:01:01,035 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:01] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 16:01:01,346 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:01] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 16:01:08,331 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:08] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 16:01:08,642 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:08] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 16:01:34,294 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:34] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 16:01:34,617 [INFO] 127.0.0.1 - - [04/Aug/2025 16:01:34] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 16:05:33,979 [INFO] 127.0.0.1 - - [04/Aug/2025 16:05:33] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 16:05:36,910 [INFO] 127.0.0.1 - - [04/Aug/2025 16:05:36] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 16:05:37,185 [INFO] 127.0.0.1 - - [04/Aug/2025 16:05:37] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 16:05:40,968 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 16:05:41,125 [INFO] 127.0.0.1 - - [04/Aug/2025 16:05:41] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 17:08:38,001 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:38] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 17:08:38,247 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:38] "[31m[1mPOST /api/fib HTTP/1.1[0m" 401 -
+2025-08-04 17:08:47,722 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:47] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-08-04 17:08:54,623 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:54] "POST /api/login HTTP/1.1" 200 -
+2025-08-04 17:08:56,400 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:56] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 17:08:56,730 [INFO] 127.0.0.1 - - [04/Aug/2025 17:08:56] "POST /api/fib HTTP/1.1" 200 -
+2025-08-04 17:09:02,022 [INFO] 127.0.0.1 - - [04/Aug/2025 17:09:02] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 17:09:02,341 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 17:09:02,344 [INFO] 127.0.0.1 - - [04/Aug/2025 17:09:02] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 17:22:55,503 [INFO] 127.0.0.1 - - [04/Aug/2025 17:22:55] "OPTIONS /api/fib HTTP/1.1" 200 -
+2025-08-04 17:22:55,757 [ERROR] Exception on /api/fib [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 35, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FibonacciRequest
+n
+  Value error, Valoarea lui n trebuie sa fie >= 0 [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 53, in calculate_fib
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-04 17:22:55,772 [INFO] 127.0.0.1 - - [04/Aug/2025 17:22:55] "[35m[1mPOST /api/fib HTTP/1.1[0m" 500 -
+2025-08-04 17:32:18,792 [INFO] 127.0.0.1 - - [04/Aug/2025 17:32:18] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:44:42,982 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 09:44:42,983 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 09:45:11,033 [INFO] 127.0.0.1 - - [05/Aug/2025 09:45:11] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 09:45:15,044 [INFO] 127.0.0.1 - - [05/Aug/2025 09:45:15] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:45:15,315 [INFO] 127.0.0.1 - - [05/Aug/2025 09:45:15] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:45:18,791 [ERROR] Exception on /api/factorial [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 64, in calculate_factorial
+    fact_request = FactorialRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FactorialRequest
+n
+  Value error, Factorialul nu este definit pentru valori negative. [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 83, in calculate_factorial
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-05 09:45:20,111 [INFO] 127.0.0.1 - - [05/Aug/2025 09:45:20] "[35m[1mPOST /api/factorial HTTP/1.1[0m" 500 -
+2025-08-05 09:46:45,495 [INFO] 127.0.0.1 - - [05/Aug/2025 09:46:45] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:46:45,747 [ERROR] Exception on /api/factorial [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 64, in calculate_factorial
+    fact_request = FactorialRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FactorialRequest
+n
+  Value error, Factorialul nu este definit pentru valori negative. [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 83, in calculate_factorial
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-05 09:46:45,750 [INFO] 127.0.0.1 - - [05/Aug/2025 09:46:45] "[35m[1mPOST /api/factorial HTTP/1.1[0m" 500 -
+2025-08-05 09:46:48,038 [INFO] 127.0.0.1 - - [05/Aug/2025 09:46:48] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:47:17,324 [INFO] 127.0.0.1 - - [05/Aug/2025 09:47:17] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:47:19,756 [INFO] 127.0.0.1 - - [05/Aug/2025 09:47:19] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:47:20,076 [ERROR] Exception on /api/factorial [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 64, in calculate_factorial
+    fact_request = FactorialRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FactorialRequest
+n
+  Value error, Factorialul nu este definit pentru valori negative. [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 83, in calculate_factorial
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-05 09:47:20,081 [INFO] 127.0.0.1 - - [05/Aug/2025 09:47:20] "[35m[1mPOST /api/factorial HTTP/1.1[0m" 500 -
+2025-08-05 09:47:24,060 [INFO] 127.0.0.1 - - [05/Aug/2025 09:47:24] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-05 09:47:24,374 [INFO] 127.0.0.1 - - [05/Aug/2025 09:47:24] "POST /api/pow HTTP/1.1" 200 -
+2025-08-05 09:49:12,281 [INFO] 127.0.0.1 - - [05/Aug/2025 09:49:12] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:49:12,545 [ERROR] Exception on /api/factorial [POST]
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 64, in calculate_factorial
+    fact_request = FactorialRequest(**data)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for FactorialRequest
+n
+  Value error, Factorialul nu este definit pentru valori negative. [type=value_error, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask_jwt_extended\view_decorators.py", line 170, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\ProiectPython\app\api\routes.py", line 83, in calculate_factorial
+    return jsonify({"error": e.errors()}), 422
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gstan\OneDrive - ENDAVA\Desktop\Python\.venv\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ValueError is not JSON serializable
+2025-08-05 09:49:12,549 [INFO] 127.0.0.1 - - [05/Aug/2025 09:49:12] "[35m[1mPOST /api/factorial HTTP/1.1[0m" 500 -
+2025-08-05 09:49:13,882 [INFO] 127.0.0.1 - - [05/Aug/2025 09:49:13] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:54:18,748 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:18] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:54:20,960 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:20] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:54:21,295 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:21] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:54:23,211 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:23] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:54:45,227 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:45] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:54:51,557 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:51] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:54:51,899 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:51] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:54:53,608 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:53] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-05 09:54:53,932 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:53] "POST /api/pow HTTP/1.1" 200 -
+2025-08-05 09:54:55,550 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:55] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:54:58,678 [INFO] 127.0.0.1 - - [05/Aug/2025 09:54:58] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:59:16,808 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:16] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:59:25,991 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:25] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:59:37,917 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:37] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:59:40,138 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:40] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:59:40,453 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:40] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 09:59:48,348 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:48] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 09:59:54,611 [INFO] 127.0.0.1 - - [05/Aug/2025 09:59:54] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:00:34,321 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:34] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:00:41,999 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:41] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:00:42,266 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:42] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 401 -
+2025-08-05 10:00:50,004 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:50] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:00:50,310 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:50] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 401 -
+2025-08-05 10:00:56,963 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:56] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:00:59,508 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:59] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:00:59,842 [INFO] 127.0.0.1 - - [05/Aug/2025 10:00:59] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:01:01,118 [INFO] 127.0.0.1 - - [05/Aug/2025 10:01:01] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:01:04,055 [INFO] 127.0.0.1 - - [05/Aug/2025 10:01:04] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:02:47,829 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:02:47,830 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:02:55,668 [INFO] 127.0.0.1 - - [05/Aug/2025 10:02:55] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:02:57,727 [INFO] 127.0.0.1 - - [05/Aug/2025 10:02:57] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:05:01,908 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:05:01,908 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:05:08,199 [INFO] 127.0.0.1 - - [05/Aug/2025 10:05:08] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:06:27,182 [INFO] 127.0.0.1 - - [05/Aug/2025 10:06:27] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:09:53,372 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:09:53,373 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:10:03,221 [INFO] 127.0.0.1 - - [05/Aug/2025 10:10:03] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:10:05,187 [INFO] 127.0.0.1 - - [05/Aug/2025 10:10:05] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:10:28,965 [INFO] 127.0.0.1 - - [05/Aug/2025 10:10:28] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:10:29,305 [INFO] 127.0.0.1 - - [05/Aug/2025 10:10:29] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:10:39,715 [INFO] 127.0.0.1 - - [05/Aug/2025 10:10:39] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:14:01,770 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:14:01,771 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:14:14,503 [INFO] 127.0.0.1 - - [05/Aug/2025 10:14:14] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:14:17,075 [INFO] 127.0.0.1 - - [05/Aug/2025 10:14:17] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:25:12,892 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:25:12,893 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:25:21,960 [INFO] 127.0.0.1 - - [05/Aug/2025 10:25:21] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:25:24,587 [INFO] 127.0.0.1 - - [05/Aug/2025 10:25:24] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:29:16,734 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:29:16,735 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:29:25,862 [INFO] 127.0.0.1 - - [05/Aug/2025 10:29:25] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:35:22,115 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:35:22,115 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:35:44,779 [INFO] 127.0.0.1 - - [05/Aug/2025 10:35:44] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:36:39,311 [INFO] 127.0.0.1 - - [05/Aug/2025 10:36:39] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-05 10:40:14,588 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:40:14,589 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:41:25,106 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:41:25,107 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:41:34,811 [INFO] 127.0.0.1 - - [05/Aug/2025 10:41:34] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:45:25,665 [INFO] 127.0.0.1 - - [05/Aug/2025 10:45:25] "[33mOPTIONS /api/health HTTP/1.1[0m" 404 -
+2025-08-05 10:45:35,465 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 10:45:35,465 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 10:45:51,242 [INFO] 127.0.0.1 - - [05/Aug/2025 10:45:51] "POST /api/login HTTP/1.1" 200 -
+2025-08-05 10:45:55,228 [INFO] 127.0.0.1 - - [05/Aug/2025 10:45:55] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:45:55,562 [INFO] 127.0.0.1 - - [05/Aug/2025 10:45:55] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-05 10:46:03,347 [INFO] 127.0.0.1 - - [05/Aug/2025 10:46:03] "[33mOPTIONS /api/health HTTP/1.1[0m" 404 -
+2025-08-05 10:46:10,544 [INFO] 127.0.0.1 - - [05/Aug/2025 10:46:10] "[33mOPTIONS /api/health HTTP/1.1[0m" 404 -
+2025-08-06 10:59:15,604 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 10:59:15,605 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 10:59:25,903 [INFO] 127.0.0.1 - - [06/Aug/2025 10:59:25] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 10:59:26,003 [INFO] 127.0.0.1 - - [06/Aug/2025 10:59:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-06 11:03:38,024 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 11:03:38,024 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 11:03:50,773 [INFO] 127.0.0.1 - - [06/Aug/2025 11:03:50] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:09:52,179 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 11:09:52,179 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 11:10:02,951 [INFO] 127.0.0.1 - - [06/Aug/2025 11:10:02] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:10:03,614 [INFO] 127.0.0.1 - - [06/Aug/2025 11:10:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:11:42,242 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 11:11:42,242 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 11:13:19,963 [INFO] 127.0.0.1 - - [06/Aug/2025 11:13:19] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:18:49,776 [INFO] 127.0.0.1 - - [06/Aug/2025 11:18:49] "GET /api/ping HTTP/1.1" 200 -
+2025-08-06 11:19:27,498 [INFO] 127.0.0.1 - - [06/Aug/2025 11:19:27] "[31m[1mGET /api/register HTTP/1.1[0m" 405 -
+2025-08-06 11:25:04,564 [INFO] 127.0.0.1 - - [06/Aug/2025 11:25:04] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:25:12,295 [INFO] 127.0.0.1 - - [06/Aug/2025 11:25:12] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-06 11:28:06,643 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 11:28:06,644 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 11:28:36,230 [INFO] 127.0.0.1 - - [06/Aug/2025 11:28:36] "GET /api/ping HTTP/1.1" 200 -
+2025-08-06 11:28:36,269 [INFO] 127.0.0.1 - - [06/Aug/2025 11:28:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-06 11:52:05,699 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 11:52:05,699 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-06 11:52:16,073 [INFO] 127.0.0.1 - - [06/Aug/2025 11:52:16] "GET /api/ping HTTP/1.1" 200 -
+2025-08-06 11:52:20,238 [INFO] 127.0.0.1 - - [06/Aug/2025 11:52:20] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-07 11:04:12,859 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-07 11:04:12,860 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-07 11:04:27,525 [INFO] 127.0.0.1 - - [07/Aug/2025 11:04:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-07 16:26:09,579 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-07 16:26:09,580 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-07 16:26:53,472 [INFO] 127.0.0.1 - - [07/Aug/2025 16:26:53] "POST /api/login HTTP/1.1" 200 -
+2025-08-07 16:26:55,557 [INFO] 127.0.0.1 - - [07/Aug/2025 16:26:55] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:32:08,455 [INFO] 127.0.0.1 - - [07/Aug/2025 16:32:08] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-07 16:32:08,746 [INFO] 127.0.0.1 - - [07/Aug/2025 16:32:08] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-07 16:32:19,065 [INFO] 127.0.0.1 - - [07/Aug/2025 16:32:19] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:32:23,921 [INFO] 127.0.0.1 - - [07/Aug/2025 16:32:23] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:40:39,215 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-07 16:40:39,216 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-07 16:47:08,899 [INFO] 127.0.0.1 - - [07/Aug/2025 16:47:08] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:50:54,722 [INFO] 127.0.0.1 - - [07/Aug/2025 16:50:54] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:52:55,172 [INFO] 127.0.0.1 - - [07/Aug/2025 16:52:55] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:53:37,904 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:37] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-07 16:53:38,218 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:38] "[31m[1mPOST /api/factorial HTTP/1.1[0m" 401 -
+2025-08-07 16:53:48,150 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:48] "POST /api/login HTTP/1.1" 200 -
+2025-08-07 16:53:50,904 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:50] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-07 16:53:51,223 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:51] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-07 16:53:55,096 [INFO] 127.0.0.1 - - [07/Aug/2025 16:53:55] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:57:52,692 [INFO] 127.0.0.1 - - [07/Aug/2025 16:57:52] "[33mOPTIONS /api/fibonacci HTTP/1.1[0m" 404 -
+2025-08-07 16:59:29,087 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-07 16:59:29,088 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-07 16:59:33,643 [INFO] 127.0.0.1 - - [07/Aug/2025 16:59:33] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-07 16:59:33,923 [INFO] 127.0.0.1 - - [07/Aug/2025 16:59:33] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-07 17:02:22,933 [INFO] 127.0.0.1 - - [07/Aug/2025 17:02:22] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-07 17:02:23,208 [INFO] 127.0.0.1 - - [07/Aug/2025 17:02:23] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:18:12,925 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-08 10:18:12,926 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 10:18:53,810 [INFO] 127.0.0.1 - - [08/Aug/2025 10:18:53] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:18:56,092 [INFO] 127.0.0.1 - - [08/Aug/2025 10:18:56] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:19:01,535 [INFO] 127.0.0.1 - - [08/Aug/2025 10:19:01] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:19:10,160 [INFO] 127.0.0.1 - - [08/Aug/2025 10:19:10] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:21:42,987 [INFO] 127.0.0.1 - - [08/Aug/2025 10:21:42] "[33mOPTIONS /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:23:25,602 [INFO] 127.0.0.1 - - [08/Aug/2025 10:23:25] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:31:24,246 [INFO] 127.0.0.1 - - [08/Aug/2025 10:31:24] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:31:43,632 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-08 10:31:43,633 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 10:31:54,242 [INFO] 127.0.0.1 - - [08/Aug/2025 10:31:54] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:33:45,873 [INFO] 127.0.0.1 - - [08/Aug/2025 10:33:45] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-08-08 10:34:16,005 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.9.242:5000
+2025-08-08 10:34:16,006 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 10:34:24,573 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:24] "POST /api/login HTTP/1.1" 200 -
+2025-08-08 10:34:28,488 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:28] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 10:34:28,765 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:28] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 10:34:35,610 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:35] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 10:34:35,929 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:35] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 10:34:38,453 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:38] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 10:34:43,714 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:43] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:34:43,995 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:43] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:34:47,508 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:47] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-08 10:34:47,825 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:47] "POST /api/pow HTTP/1.1" 200 -
+2025-08-08 10:34:54,638 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:54] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-08 10:34:54,956 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:54] "POST /api/pow HTTP/1.1" 200 -
+2025-08-08 10:34:56,772 [INFO] 127.0.0.1 - - [08/Aug/2025 10:34:56] "POST /api/pow HTTP/1.1" 200 -
+2025-08-08 10:35:00,378 [INFO] 127.0.0.1 - - [08/Aug/2025 10:35:00] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:35:00,636 [INFO] 127.0.0.1 - - [08/Aug/2025 10:35:00] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:35:03,663 [INFO] 127.0.0.1 - - [08/Aug/2025 10:35:03] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:35:05,902 [INFO] 127.0.0.1 - - [08/Aug/2025 10:35:05] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-08 10:35:06,170 [INFO] 127.0.0.1 - - [08/Aug/2025 10:35:06] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 15:34:51,747 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.216:5000
+2025-08-08 15:34:51,748 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 15:38:55,671 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.216:5000
+2025-08-08 15:38:55,672 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 15:43:57,921 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.216:5000
+2025-08-08 15:43:57,921 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 15:44:05,778 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:05] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-08-08 15:44:06,191 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:06] "POST /api/login HTTP/1.1" 200 -
+2025-08-08 15:44:08,315 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:08] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:08,634 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:08] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:23,997 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:23] "OPTIONS /api/register HTTP/1.1" 200 -
+2025-08-08 15:44:24,471 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:24] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+2025-08-08 15:44:24,561 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:24] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-08-08 15:44:24,921 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:24] "POST /api/login HTTP/1.1" 200 -
+2025-08-08 15:44:26,228 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:26] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:26,554 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:26] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:30,396 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:30] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:33,677 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:33] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 15:44:33,946 [INFO] 127.0.0.1 - - [08/Aug/2025 15:44:33] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:02:35,929 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.216:5000
+2025-08-08 16:02:35,930 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 16:02:58,028 [INFO] 127.0.0.1 - - [08/Aug/2025 16:02:58] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-08-08 16:02:58,429 [INFO] 127.0.0.1 - - [08/Aug/2025 16:02:58] "POST /api/login HTTP/1.1" 200 -
+2025-08-08 16:03:00,098 [INFO] 127.0.0.1 - - [08/Aug/2025 16:03:00] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:03:00,426 [INFO] 127.0.0.1 - - [08/Aug/2025 16:03:00] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:11:33,133 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.0.216:5000
+2025-08-08 16:11:33,134 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-08 16:11:48,729 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:48] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-08-08 16:11:49,172 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:49] "POST /api/login HTTP/1.1" 200 -
+2025-08-08 16:11:50,719 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:50] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:11:51,035 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:51] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:11:54,545 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:54] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:11:57,277 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:57] "OPTIONS /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:11:57,562 [INFO] 127.0.0.1 - - [08/Aug/2025 16:11:57] "POST /api/fibonacci HTTP/1.1" 200 -
+2025-08-08 16:12:07,449 [INFO] 127.0.0.1 - - [08/Aug/2025 16:12:07] "OPTIONS /api/factorial HTTP/1.1" 200 -
+2025-08-08 16:12:07,760 [INFO] 127.0.0.1 - - [08/Aug/2025 16:12:07] "POST /api/factorial HTTP/1.1" 200 -
+2025-08-08 16:12:10,612 [INFO] 127.0.0.1 - - [08/Aug/2025 16:12:10] "OPTIONS /api/pow HTTP/1.1" 200 -
+2025-08-08 16:12:10,931 [INFO] 127.0.0.1 - - [08/Aug/2025 16:12:10] "POST /api/pow HTTP/1.1" 200 -
+2025-08-08 16:12:12,446 [INFO] 127.0.0.1 - - [08/Aug/2025 16:12:12] "POST /api/factorial HTTP/1.1" 200 -
